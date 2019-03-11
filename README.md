@@ -1,0 +1,1 @@
+WIP typescript library starter
